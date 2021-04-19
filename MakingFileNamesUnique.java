@@ -1,0 +1,5 @@
+class MakingFileNamesUnique{
+    public static void main(String[] args){
+        System.out.println("working just fine");
+    }
+}
